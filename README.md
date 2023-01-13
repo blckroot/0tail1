@@ -1,1 +1,1 @@
-tail -f /dev/null >> README.md && xargs !!
+tail -f /dev/null > README.md && xargs !!
